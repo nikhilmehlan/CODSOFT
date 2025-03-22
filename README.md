@@ -53,7 +53,6 @@ To view the projects locally:
 ## Contact
 If you have any questions or feedback, feel free to connect with me:
 - **GitHub:** [Nikhil Mehlan](https://github.com/nikhilmehlan)
-- **LinkedIn:** [Nikhil Mehlan](https://linkedin.com/in/nikhilmehlan)
 - **Email:** nikhilmehlan1234@gmail.com
 
 ---
