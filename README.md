@@ -52,8 +52,8 @@ To view the projects locally:
 
 ## Contact
 If you have any questions or feedback, feel free to connect with me:
-- **GitHub:** [github.com/your-username](https://github.com/nikhilmehlan)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/nikhilmehlan)
+- **GitHub:** [Nikhil Mehlan](https://github.com/nikhilmehlan)
+- **LinkedIn:** [Nikhil Mehlan](https://linkedin.com/in/nikhilmehlan)
 - **Email:** nikhilmehlan1234@gmail.com
 
 ---
